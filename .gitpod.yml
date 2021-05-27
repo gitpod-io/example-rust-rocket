@@ -5,7 +5,7 @@ tasks:
       rustup override set nightly
       cargo update
       cargo build
-    command: 
+    command: |
       cargo run
 
 # List the ports you want to expose and what to do when they are served. See https://www.gitpod.io/docs/config-ports/
