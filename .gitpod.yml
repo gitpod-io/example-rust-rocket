@@ -19,4 +19,4 @@ ports:
 vscode:
   extensions:
     # "The" Rust extension for VSCode
-    - matklad.rust-analyzer
+    - rust-lang.rust-analyzer
